@@ -19,7 +19,7 @@ This an analysis of different important key point indicators that are used in th
 
 2. **[Google play analysis](https://github.com/Nifesimi23/Data-science-projects/blob/main/Google_Play_Store_Analysis%20.ipynb)**
 
-This ia an analysis of over 15000 apps to determine the most profitable apps in the Google Playstore.
+This ia an analysis of over 15000 apps to determine the most profitable apps in the Google Playstore using pandas,numpy,matplotlib and seaborn.
 
 
 * ### ML projects
