@@ -21,6 +21,8 @@ This an analysis of different important key point indicators that are used in th
 
 This ia an analysis of over 15000 apps to determine the most profitable apps in the Google Playstore using pandas,numpy,matplotlib and seaborn.
 
+![](https://github.com/Nifesimi23/Oluwanifesimi-Portfolio/blob/main/Images/download.png)
+
 
 * ### ML projects
 1. **[Human Resource Retention](https://github.com/Nifesimi23/Data-science-projects/blob/main/Human%20Resource%20Retention.ipynb)**
