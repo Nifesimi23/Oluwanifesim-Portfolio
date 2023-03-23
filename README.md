@@ -15,7 +15,7 @@ This an analysis of different important key point indicators that are used in th
 
 * ### Data Analysis
 
-1. **[Netflix analysis](https://github.com/Nifesimi23/Data-science-projects/blob/main/Netflix%20visualization.ipynb)**
+1. **[Netflix analysis](https://github.com/Nifesimi23/Data-science-projects/blob/main/Data%20analysis/Netflix%20visualization.ipynb)**
 
 2. **[Google play analysis](https://github.com/Nifesimi23/Data-science-projects/blob/main/Google_Play_Store_Analysis%20.ipynb)**
 
